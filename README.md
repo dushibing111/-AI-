@@ -49,7 +49,7 @@ streamlit run app.py
 
 ### 3. 配置 API Key（以 MiMo 为例）
 
-在界面左侧填入你的 API Key（通过 [100t.xiaomimimo.com](https://100t.xiaomimimo.com) 申请 MiMo 免费额度）：
+在界面左侧填入你的 API Key：
 
 | 参数 | 默认值 |
 |------|--------|
@@ -86,21 +86,6 @@ paper-ai-assistant/
 └── .gitignore
 ```
 
-## 🧪 运行截图
-
-*(建议添加 2-3 张运行截图到这里，审核时会加分)*
-
-## 📝 申请活动说明
-
-本项目是为申请 **小米 MiMo Orbit 百万亿 Token 创造者激励计划** 而创建的 Demo。
-
-**技术亮点**：
-- ✅ 完整的 RAG 架构（检索增强生成）
-- ✅ 本地向量检索（无需额外 API 费用）
-- ✅ 使用 Claude Code 辅助开发，效率大幅提升
-- ✅ 对学术场景有实用价值
-
----
 
 ## 📄 开源协议
 
